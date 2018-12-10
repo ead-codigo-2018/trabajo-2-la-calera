@@ -1,0 +1,170 @@
+/** inicio codigo del tomi**/
+
+h1{
+  text-align: center;
+  margin-top: 30px;
+  padding: 30px;
+}
+
+h2{
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.Muni{
+  text-align: right;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  font-size: 20px;
+
+}
+
+.navbar{
+  background-color: #CF604D !important;
+  border-radius: 5px;
+}
+
+.navbar .navbar-brand{
+  color: #fff;
+  font-weight: bold;
+
+}
+
+.navbar .navbar-brand:hover{
+  color: #DBC2BE;
+}
+
+.navbar .navbar-nav li a{
+  color: #fff !important;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.navbar .navbar-nav li a:hover{
+  background-color: #CA776A;
+}
+
+.navbar .nav-item .dropdown-menu .dropdown-item{
+  color: #000 !important;
+  font-weight: normal;
+}
+
+.navbar .nav-item .dropdown-menu .dropdown-item:hover{
+  color: #fff !important;
+  font-weight: normal;
+  background-color: #CF604D;
+}
+
+.btn{
+  background-color: #CF604D;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: white;
+  border: none;
+}
+
+.btn:hover{
+  background-color: #DBC2BE;
+}
+.navbar-toggler{
+  background-color: white;
+}
+a:link
+{
+text-decoration:none;
+}
+a:hover{
+  color: #CF604D;
+}
+/**HEADER**/
+header a{
+  text-decoration: none;
+  color: white;
+}
+
+.btn-group{
+  text-align: right;
+
+}
+
+.Transparencia{
+  text-align:right;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 140px;
+  font-weight: bold;
+}
+.lonc{
+  color: white;
+}
+.btn-tr1{
+  background-color: #83706D !important;
+
+}
+.btn-tr1:hover{
+  background-color: #BC9791 !important;
+}
+/**FIN HEADER **/
+/**fin del codigo del tomi**/
+/** FOOTER **/
+h5{
+  margin-top: 50px
+}
+
+
+footer {
+  margin-top: 20px;
+}
+
+.context-dark, .bg-gray-dark, .bg-primary {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.footer-classic a, .footer-classic a:focus, .footer-classic a:active {
+    color: #ffffff;
+}
+.nav-list li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nav-list li a:hover:before {
+    margin-left: 0;
+    opacity: 1;
+    visibility: visible;
+}
+
+ul, ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+}
+.social-container .col {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.nav-list li a:before {
+    content: "\f14f";
+    font: 400 21px/1 "Material Design Icons";
+    color: #4d6de6;
+    display: inline-block;
+    vertical-align: baseline;
+    margin-left: -28px;
+    margin-right: 7px;
+    opacity: 0;
+    visibility: hidden;
+    transition: .22s ease;
+}
+/**ESTILOS LA CIUDAD**/
+=======
+
+  /**Alcaldesa**/
+
+  .lectura {
+    line-height: 22pt;
+  }
+
+.eventos {
+  color: white;
+}
